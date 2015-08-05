@@ -7,8 +7,13 @@ shr lets you pick a command from history and share it with your friends easily.
 $ shr
 ```
 
+## Install
+```
+$ curl https://raw.githubusercontent.com/uiureo/shr/master/shr >> ~/.zshrc
+```
+
 ## Requirements
-requires following commands
+requires following commands.
 
 - gist
 - peco
